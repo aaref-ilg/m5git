@@ -1,7 +1,7 @@
 # commonmark
 
-![]()
-![]()
+[![Nsolid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![](https://travis-ci.com/joemccann/dillnger.svg?branch=master)](https://travis-ci.org/joemccann/commonmark)
 
 
 commonmark is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5
