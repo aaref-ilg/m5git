@@ -1,6 +1,6 @@
 # commonmark
 
-[![Nsolid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![Nsolid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)<br>
 [![](https://travis-ci.com/joemccann/dillnger.svg?branch=master)](https://travis-ci.org/joemccann/commonmark)
 
 
